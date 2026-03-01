@@ -10,7 +10,7 @@
 ### Backend
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js" />
+    <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,thymeleaf" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,thymeleaf" />
   </a>
 </div>
 
